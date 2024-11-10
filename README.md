@@ -2,7 +2,7 @@
  <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px" /></h1>
   
 <p align="center">
- <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lines=Sometimes,%20a%20single%20chance%20is%20all%20it%20takes%20to%20turn%20dreams%20into%20reality&font=Fira%20Code&center=true&width=1000&height=45&color=505050&vCenter=true&size=22"></a>
+ <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lines=Sometimes,%20a%20single%20chance%20is%20all%20it%20takes%20to%20turn%20dreams%20into%20reality&font=Fira%20Code&center=true&width=1000&height=45&color=505050&vCenter=true&size=22&repeat=false"></a>
 </p>
   
 
