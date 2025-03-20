@@ -11,4 +11,4 @@
 * 🔗 You can contact with me on [my LinkedIn](https://www.linkedin.com/in/buiphuclam/)
 
 ## ⚡ Favorite languages and tools
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=builam66&hide=css,html,powershell,elm,php&show_icons=true&count_private=true&theme=algolia&layout=compact" alt="builam66" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=builam66&hide=css,html,powershell,elm,php&show_icons=true&count_private=true&theme=algolia&layout=compact&card_width=500" alt="builam66" />
