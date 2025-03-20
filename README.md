@@ -11,8 +11,3 @@
 * 💻 Graduated from Ho Chi Minh City University of Technology and Education
 * 🎨 My majority is C#/.NET, React, React Native + Android modules (Java/Kotlin)
 * 🔗 You can contact with me on [my LinkedIn](https://www.linkedin.com/in/buiphuclam/)
-
-## 🚀 Visitor Count
- <p align="center"> 
-  <img src="https://profile-counter.glitch.me/builam66/count.svg" />
-</p>
