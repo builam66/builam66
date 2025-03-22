@@ -7,7 +7,9 @@
 
 ## 📖 About me
 * 💻 Graduated from Ho Chi Minh City University of Technology and Education
-* 🎨 My majority is C#/.NET, React, React Native + Android modules (Java/Kotlin)
+* 🎨 My majority is C#/.NET, React, React Native + Android modules
+* ☁️ Hand-on experience with Azure Cloud, GitHub Action, CI/CD
+* 🌱 Basic knowledge about Golang, Python, Angular
 * 🔗 You can contact with me on [my LinkedIn](https://www.linkedin.com/in/buiphuclam/)
 
 ## ⚡ Favorite languages and tools
